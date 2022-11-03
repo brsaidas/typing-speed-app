@@ -1,5 +1,3 @@
-package br.com.monitoria.projeto01;
- 
 import java.awt.Canvas;
 import java.awt.Color;
 import java.awt.Graphics;
