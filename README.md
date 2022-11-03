@@ -4,4 +4,6 @@ A friend was having trouble with a real-time data collection (Telemetry) project
 
 ## Logic in C
 
+https://user-images.githubusercontent.com/86388642/199709755-6115d808-86bb-4713-9a25-169d05451f63.mp4
+
 ## App in java with graphical interface
